@@ -31,12 +31,6 @@ docs/ – Report and presentation
 
 screenshots/ – Output images
 
-⚙️ Installation
-git clone https://github.com/username/wifi-logger.git
-cd wifi-logger
-pip install -r requirements.txt
-▶️ How to Run
-python main.py
 🤖 Telegram Commands
 
 /start – Start bot
